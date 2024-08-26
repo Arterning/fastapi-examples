@@ -1,0 +1,1 @@
+pip install elasticsearch==7.12.1
